@@ -1,0 +1,16 @@
+.sum-container{
+  padding : 10px;
+  background : linear-gradient(to right, orange, red );
+  height : 100vh
+}
+.input-wrapper{
+  padding : 20px;
+  
+}
+label{
+  color : white;
+}
+.button-wrapper{
+  position : relative;
+  left : 85px;
+}
